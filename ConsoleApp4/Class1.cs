@@ -13,5 +13,7 @@ namespace ConsoleApp4
             Seated,
             Standing
         }
+
     }
 }
+
